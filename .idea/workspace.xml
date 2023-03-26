@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18d7b030-022e-4ff3-9de8-5a401222c972" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyBatis-01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyBatis-01/src/main/java/org/learn/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyBatis-01/src/main/java/org/learn/dao/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyBatis-01/src/main/java/org/learn/dao/userMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyBatis-01/src/main/java/org/learn/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyBatis-01/src/main/java/org/learn/utils/MyBatisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyBatis-01/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyBatis-01/src/test/java/org/learn/dao/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyBatis-02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyBatis-02/src/main/java/org/learn/dao/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyBatis-02/src/main/java/org/learn/dao/userMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyBatis-02/src/main/java/org/learn/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyBatis-02/src/main/java/org/learn/utils/MyBatisUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyBatis-02/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyBatis-02/src/test/java/dao/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NLe6NOsQqJIMTnkHXZfRJBlltn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "/Users/em4non/Desktop/Project/MyBatis/MyBatis-01/target/test-classes/org/learn/dao",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "rsyncConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MyBatis-01/target/test-classes/org/learn/dao" />
+      <recent name="$PROJECT_DIR$/MyBatis-01/src/test/java/org/learn/dao" />
+      <recent name="$PROJECT_DIR$/MyBatis-01/target/test-classes" />
+      <recent name="$PROJECT_DIR$/MyBatis-01/target/classes/org/learn/dao" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.learn.dao" />
+      <recent name="org.learn" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyTest.addUser">
+    <configuration name="MyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatis-01" />
+      <option name="PACKAGE_NAME" value="org.learn.dao" />
+      <option name="MAIN_CLASS_NAME" value="org.learn.dao.MyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.addUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatis-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dao" />
+      <option name="MAIN_CLASS_NAME" value="dao.MyTest" />
+      <option name="METHOD_NAME" value="addUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.getUserById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatis-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dao" />
+      <option name="MAIN_CLASS_NAME" value="dao.MyTest" />
+      <option name="METHOD_NAME" value="getUserById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.selectUser (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatis-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dao" />
+      <option name="MAIN_CLASS_NAME" value="dao.MyTest" />
+      <option name="METHOD_NAME" value="selectUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.selectUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatis-01" />
+      <option name="PACKAGE_NAME" value="org.learn.dao" />
+      <option name="MAIN_CLASS_NAME" value="org.learn.dao.MyTest" />
+      <option name="METHOD_NAME" value="selectUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyTest.addUser" />
+        <item itemvalue="JUnit.MyTest.getUserById" />
+        <item itemvalue="JUnit.MyTest.selectUser (1)" />
+        <item itemvalue="JUnit.MyTest" />
+        <item itemvalue="JUnit.MyTest.selectUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="18d7b030-022e-4ff3-9de8-5a401222c972" name="变更" comment="" />
+      <created>1679447615161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679447615161</updated>
+      <workItem from="1679447616219" duration="584000" />
+      <workItem from="1679538849038" duration="1248000" />
+      <workItem from="1679543369323" duration="324000" />
+      <workItem from="1679547364325" duration="789000" />
+      <workItem from="1679559288611" duration="710000" />
+      <workItem from="1679582730627" duration="1784000" />
+      <workItem from="1679616104594" duration="486000" />
+      <workItem from="1679619199134" duration="713000" />
+      <workItem from="1679651677677" duration="1606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
